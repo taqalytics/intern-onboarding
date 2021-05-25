@@ -21,6 +21,7 @@ This Onboarding courses builds strong foundational skills for new developers.
 -   [Security](https://linkedin.github.io/school-of-sre/security/intro/)
 -   [An introduction to APIs](https://zapier.com/learn/apis/)
 -   [JavaScript for Cats](http://jsforcats.com/)
+-   [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 -   [CSS-Tricks](https://css-tricks.com/)
 -   [Docker for Beginners](https://github.com/docker/labs/blob/master/beginner/readme.md)
 -   [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
