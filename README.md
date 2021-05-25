@@ -25,6 +25,10 @@ This Onboarding courses builds strong foundational skills for new developers.
 -   [Docker for Beginners](https://github.com/docker/labs/blob/master/beginner/readme.md)
 -   [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
+## Cloud
+
+- [Basics of AWS](https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/)
+
 ## Tools
 
 - [git](https://git-scm.com/)
