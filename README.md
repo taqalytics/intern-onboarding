@@ -12,10 +12,6 @@ This Onboarding courses builds strong foundational skills for new developers.
     -   [Git](https://linkedin.github.io/school-of-sre/git/git-basics/)
     -   [Linux Networking](https://linkedin.github.io/school-of-sre/linux_networking/intro/)
 -   [Python and Web](https://linkedin.github.io/school-of-sre/python_web/intro/)
--   Data
-    - [Relational databases(MySQL)](https://linkedin.github.io/school-of-sre/databases_sql/intro/)
-    -   [NoSQL concepts](https://linkedin.github.io/school-of-sre/databases_nosql/intro/)
-    -   [Big Data](https://linkedin.github.io/school-of-sre/big_data/intro/)
 -   [Systems Design](https://linkedin.github.io/school-of-sre/systems_design/intro/)
 -   [Metrics and Monitoring](https://linkedin.github.io/school-of-sre/metrics_and_monitoring/introduction/)
 -   [Security](https://linkedin.github.io/school-of-sre/security/intro/)
@@ -25,6 +21,11 @@ This Onboarding courses builds strong foundational skills for new developers.
 -   [CSS-Tricks](https://css-tricks.com/)
 -   [Docker for Beginners](https://github.com/docker/labs/blob/master/beginner/readme.md)
 -   [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+-   Data
+    - [Relational databases(MySQL)](https://linkedin.github.io/school-of-sre/databases_sql/intro/)
+    -   [NoSQL concepts](https://linkedin.github.io/school-of-sre/databases_nosql/intro/)
+    -   [Big Data](https://linkedin.github.io/school-of-sre/big_data/intro/)
+    -   [ETL Tutorial](https://www.tutorialandexample.com/etl-tutorial/)
 
 ## Cloud
 
