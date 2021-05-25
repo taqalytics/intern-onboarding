@@ -1,7 +1,7 @@
 # DataWadi Intern Onboarding
 
 This document is intended as a guidance for new developers/interns joining our team at DataWadi.
-Most of the courses are from LinkedIn School of SRE.
+Some foundational of the courses are from LinkedIn School of SRE.
 
 This Onboarding courses builds strong foundational skills for new developers.
 
@@ -26,6 +26,7 @@ This Onboarding courses builds strong foundational skills for new developers.
     -   [NoSQL concepts](https://linkedin.github.io/school-of-sre/databases_nosql/intro/)
     -   [Big Data](https://linkedin.github.io/school-of-sre/big_data/intro/)
     -   [ETL Tutorial](https://www.tutorialandexample.com/etl-tutorial/)
+    -   [Data visualization beginners guide](https://www.tableau.com/learn/articles/data-visualization#:~:text=Data%20visualization%20is%20the%20graphical,outliers%2C%20and%20patterns%20in%20data.)
 
 ## Cloud
 
