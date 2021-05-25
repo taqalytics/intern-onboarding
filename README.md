@@ -32,3 +32,7 @@ This Onboarding courses builds strong foundational skills for new developers.
 - [Twelve Benefits of Writing Unit Tests First](http://sd.jtimothyking.com/2006/07/11/twelve-benefits-of-writing-unit-tests-first/)
 - [A Beginner's Guide to npm](https://www.sitepoint.com/beginners-guide-node-package-manager/)
 - [Basic UNIX commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+
+## Best Practices
+
+- [Google Engineering Practices](https://github.com/google/eng-practices)
