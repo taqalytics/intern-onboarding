@@ -1,7 +1,7 @@
 # DataWadi Intern Onboarding
 
 This document is intended as a guidance for new developers/interns joining our team at DataWadi.
-Some foundational of the courses are from LinkedIn School of SRE.
+Some of the Basic series courses are from LinkedIn School of SRE.
 
 This Onboarding courses builds strong foundational skills for new developers.
 
