@@ -28,7 +28,7 @@ This Onboarding courses builds strong foundational skills for new developers.
 
 ## Cloud
 
-- [Basics of AWS](https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/)
+- [AWS Essential Training for Developers](https://www.linkedin.com/learning/aws-essential-training-for-developers/course-objectives)
 
 ## Tools
 
