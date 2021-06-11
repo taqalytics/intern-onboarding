@@ -17,10 +17,8 @@ This Onboarding courses builds strong foundational skills for new developers.
 -   [Security](https://linkedin.github.io/school-of-sre/security/intro/)
 -   [Docker for Beginners](https://www.linkedin.com/learning/learning-docker-2018/why-create-containers-using-docker)
 -   [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes/welcome)
--   [JavaScript for Cats](http://jsforcats.com/)
--   [Intro to React](https://reactjs.org/tutorial/tutorial.html)
--   [CSS-Tricks](https://css-tricks.com/)
--   [An introduction to APIs](https://zapier.com/learn/apis/)
+-   [Learning React](https://www.linkedin.com/learning/learning-react-js-5/getting-started-with-react)
+-   [An introduction to APIs](https://www.linkedin.com/learning/introduction-to-web-apis/what-is-an-api)
 -   Data
     - [Relational databases(MySQL)](https://linkedin.github.io/school-of-sre/databases_sql/intro/)
     -   [NoSQL concepts](https://linkedin.github.io/school-of-sre/databases_nosql/intro/)
