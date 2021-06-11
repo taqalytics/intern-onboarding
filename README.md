@@ -3,7 +3,7 @@
 This document is intended as a guidance for new developers/interns joining our team at DataWadi.
 Some of the Basic series courses are from LinkedIn School of SRE.
 
-This onboarding courses builds strong foundational skills for new developers.
+The courses below build strong foundational skills for new developers.
 
 ## Basics
 
