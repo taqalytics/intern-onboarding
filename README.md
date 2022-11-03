@@ -1,4 +1,4 @@
-# DataWadi Intern Onboarding
+# TaqaLytics Intern Onboarding
 
 This document is intended as a guidance for new developers/interns joining our team at TaqaLytics.
 Some of the Basic series courses are from LinkedIn School of SRE.
