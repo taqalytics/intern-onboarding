@@ -12,6 +12,7 @@ The courses below build strong foundational skills for new developers.
     -   [Linux Basics](https://linkedin.github.io/school-of-sre/level101/linux_basics/intro/)
     -   [Linux Networking](https://linkedin.github.io/school-of-sre/level101/linux_networking/intro/)
 -   [Python and Web](https://linkedin.github.io/school-of-sre/level101/python_web/intro/)
+-   [Learning Java](https://www.linkedin.com/learning/learning-java-4)
 -   [Security](https://linkedin.github.io/school-of-sre/level101/security/intro/)
 -   [Docker for Beginners](https://www.linkedin.com/learning/learning-docker-2018/why-create-containers-using-docker)
 -   [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes/welcome)
